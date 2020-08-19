@@ -1,14 +1,19 @@
 ﻿<Properties StartupConfiguration="{DB051B39-347A-486D-BADC-F02ACCC0977B}|CodingEventsAPI">
-  <MonoDevelop.Ide.Workbench ActiveDocument="CodingEventsAPI/appsettings.json">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CodingEventsAPI/Program.cs">
     <Files>
-      <File FileName="CodingEventsAPI/appsettings.json" Line="1" Column="1" />
+      <File FileName="CodingEventsAPI/appsettings.json" Line="11" Column="42" />
+      <File FileName="CodingEventsAPI/Startup.cs" Line="1" Column="1" />
+      <File FileName="CodingEventsAPI/Program.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="coding-events-api" expanded="True">
             <Node name="CodingEventsAPI" expanded="True">
-              <Node name="appsettings.json" selected="True" />
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>
